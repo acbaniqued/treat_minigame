@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "838321307254",
+    "firebase_url": "https://treattestproject-default-rtdb.firebaseio.com",
+    "project_id": "treattestproject",
+    "storage_bucket": "treattestproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838321307254:android:3805116f027ded17522957",
+        "android_client_info": {
+          "package_name": "com.mbaniqued.TreatTestProject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjvofdtUxhPgM4Iod1u1qO3qMPMMYI6B0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
